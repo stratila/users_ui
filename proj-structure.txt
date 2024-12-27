@@ -1,0 +1,15 @@
+my-app/
+  README.md
+  node_modules/
+  package.json
+  public/
+    index.html
+    favicon.ico
+  src/
+    components/
+      LoginForm.js
+      UserList.js
+      UserForm.js
+    App.js
+    index.js
+    api.js
